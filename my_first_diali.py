@@ -4,6 +4,7 @@ print("Hi user, my name is Zed")
 name = input("What you name?")
 # response to user
 print("nice friend")
+print(name)
 # first question to the user
 a = input("guess the first number")
 # response to user
